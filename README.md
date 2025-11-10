@@ -51,38 +51,20 @@ These results underscore the central role of CEO leadership in converting person
 
 ---
 
-
----
-
 ## Data Availability
-All datasets and R scripts used for this study are **freely available** at this repository and archived on Zenodo:  
-**DOI:** [10.5281/zenodo.17516039](https://doi.org/10.5281/zenodo.17516039)
+
+All data underlying the results reported in this study are freely available under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
+The datasets include all variables, descriptive statistics, and raw values used to compute means, standard deviations, and figures reported in the paper, as well as the data required to replicate the structural equation modeling (SEM) and correlation analyses.
+
+No embargo applies. All datasets are openly accessible and include the numerical values used to compute reported statistics, construct figures, and reproduce all analyses.  
+No data were excluded for privacy, ethical, or security reasons.
 
 ---
 
-## Citation
-If you use this repository, please cite:  
-
-> Parodi Camaño, T. A., Vidal Durango, J. V., & Portnoy, I. (2025).  
-> *CEO Dimensions and Their Impact on Innovation Capabilities: An Empirical Study of Colombian MSMEs.*  
-> Universidad de Córdoba & Universidad de la Costa.  
-> DOI: [10.5281/zenodo.17516039](https://doi.org/10.5281/zenodo.17516039)
+The archived repository includes all R source files, scripts for SEM model replication, figure generation, and dataset documentation, ensuring full reproducibility of the results reported in this paper.
 
 ---
 
-## Acknowledgements
-We thank the CEOs who voluntarily participated in this study and the research groups at **Universidad de Córdoba** and **Universidad de la Costa** for their support during the data collection phase.  
-Special thanks to **Professor Adriano Eurípedes Martins** for his valuable feedback during the conceptual development of this research.
-
----
-
-## License
-This repository is released under the **MIT License**, an [OSI-approved open-source license](https://opensource.org/licenses/MIT).
-
-You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, provided that the original authors are credited.
-
-**Software availability statement (per F1000 policy):**  
-• Source code available from: [https://github.com/iportnoy1/CEO-Dimensions-and-Their-Impact-on-Innovation-Capabilities-An-Empirical-Study-of-Colombian-MSMEs-](https://github.com/iportnoy1/CEO-Dimensions-and-Their-Impact-on-Innovation-Capabilities-An-Empirical-Study-of-Colombian-MSMEs-)  
-• Archived software available from: [https://doi.org/10.5281/zenodo.17516039](https://doi.org/10.5281/zenodo.17516039)  
-• License: [MIT License](https://opensource.org/licenses/MIT)
----
+## ⚖️ License
+**Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
+- CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
