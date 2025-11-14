@@ -65,6 +65,6 @@ The archived repository includes all R source files, scripts for SEM model repli
 
 ---
 
-## ⚖️ License
-**Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
-- CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
+## License
+- Data is licensed under CC BY 4.0:
+- Software is licensed under MIT
